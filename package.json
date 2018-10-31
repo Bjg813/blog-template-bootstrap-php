@@ -1,0 +1,32 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio with bootstrap and php",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@bjg813",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.1.3",
+    "gulp": "^3.9.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.4"
+  },
+  "dependencies": {
+    "autoprefixer": "^9.3.1",
+    "browser-sync": "^2.26.3",
+    "cssnano": "^4.1.7",
+    "del": "^3.0.0",
+    "gulp-cache": "^1.0.2",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
+    "gulp-useref": "^3.1.6",
+    "run-sequence": "^2.2.1"
+  }
+}
